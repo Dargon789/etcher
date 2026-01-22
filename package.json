@@ -42,7 +42,7 @@
     "etcher-sdk": "9.1.2",
     "i18next": "23.11.2",
     "immutable": "3.8.2",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "outdent": "0.8.0",
     "path-is-inside": "1.0.2",
     "pretty-bytes": "6.1.1",
